@@ -1,1 +1,1 @@
-# snakeGame with python
+# snakeGame made with python
